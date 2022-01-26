@@ -1,6 +1,6 @@
 [submodule "child-test2"]
 	path = child-test2
-	url = git@bitbucket.org:austenstone/child-test2.git
+	url = https://austenstone@bitbucket.org/austenstone/child-test2.git
 [submodule "child-test1"]
 	path = child-test1
-	url = git@bitbucket.org:austenstone/child-test1.git
+	url = https://austenstone@bitbucket.org/austenstone/child-test1.git
